@@ -14,8 +14,22 @@ Media: Youtube, Process Analysis Explained.
 ### Reflection  
 I chose this artefact because it helped me understand process analysis in a simple and practical way. Before watching the video, I thought processes were just general steps, but I learned that each step must be clearly structured and logically connected. This changed my understanding of BPM because I now see that process analysis improves communication and reduces errors. This is important in real organisations, as clear processes help employees perform tasks correctly and improve efficiency.
 
+## Artefact 2 – BPM Lifecycle Diagram
+
+![BPM Lifecycle Diagram](images/artefact3.png)
+
+### Description
+
+This artefact is from lecture material that shows how process analysis fits within Phase 2 of Business Process Management. It explains that process analysis includes analysing the current process (as-is), evaluating performance, and designing improved processes (to-be). It also highlights identifying gaps and setting priorities for improvement. This aligns with BPM theory, where process analysis helps organisations understand processes and improve efficiency (Weske, 2019, p. 85).
+
+### Reflection
+
+I chose this artefact because I found very inportant how process analysis fits into the BPM lifecycle. Before, I only saw it as analysing steps, but now I see it as part of continuous improvement. This changed my understanding because now I realise that process analysis supports redesign and decision making. This is critical in real organisations, where improving processes helps to achieve better performance and results.
 ## References
 
 Dumas, M, La Rosa, M, Mendling, J & Reijers, HA 2018, *Fundamentals of Business Process Management*, Springer.  
 
 YouTube 2025, *Process Analysis Explained*, YouTube, viewed 2026, <https://www.youtube.com/watch?v=bdsDBAJBGHE>
+
+Weske, M 2019, *Business Process Management: Concepts, Languages, Architectures*, Springer.
+
