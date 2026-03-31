@@ -16,7 +16,7 @@ I chose this artefact because it helped me understand process analysis in a simp
 
 ## Artefact 2 – BPM Lifecycle Diagram
 
-![BPM Lifecycle Diagram](images/artefact3.png)
+![BPM Lifecycle Diagram](https://github.com/wendyauca/E-Portfolio/blob/cef6b6da01b56f195f1c80d85c5978a7c50c5ccb/images/Process%20analysis%20-%20BPM%20life%20cycle.PNG)
 
 ### Description
 
