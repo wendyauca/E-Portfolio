@@ -16,11 +16,11 @@ I chose this artefact because it helped me understand process analysis in a simp
 
 ## Artefact 2 – BPM Lifecycle Diagram
 
-![BPM Lifecycle Diagram](https://github.com/wendyauca/E-Portfolio/blob/cef6b6da01b56f195f1c80d85c5978a7c50c5ccb/images/Process%20analysis%20-%20BPM%20life%20cycle.PNG)
-
 ### Description
 
 This artefact is from lecture material that shows how process analysis fits within Phase 2 of Business Process Management. It explains that process analysis includes analysing the current process (as-is), evaluating performance, and designing improved processes (to-be). It also highlights identifying gaps and setting priorities for improvement. This aligns with BPM theory, where process analysis helps organisations understand processes and improve efficiency (Weske, 2019, p. 85).
+
+![BPM Lifecycle Diagram](https://github.com/wendyauca/E-Portfolio/blob/cef6b6da01b56f195f1c80d85c5978a7c50c5ccb/images/Process%20analysis%20-%20BPM%20life%20cycle.PNG)
 
 ### Reflection
 
