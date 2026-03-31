@@ -26,7 +26,7 @@ This artefact is from lecture material that shows how process analysis fits with
 ### Description
 
 This artefact explains different business process analysis techniques used to evaluate and improve processes. It includes methods such as gap analysis to identify missing information, value-added analysis to check if activities create value, and root cause analysis to find the main problems. It also highlights observation and experience examination, where organisations analyse processes in real situations and gather input from employees. These techniques help organisations understand processes and identify improvement opportunities, which is a key part of Business Process Management (Dumas et al., 2018, p. 213).
-![Process Analysis Techniques] (https://github.com/wendyauca/E-Portfolio/blob/4e284089d695f0ba331a212f7ab16d262a89867e/images/Business_Process_Analysis_Techniques.webp)
+![Process Analysis Techniques](https://github.com/wendyauca/E-Portfolio/blob/4e284089d695f0ba331a212f7ab16d262a89867e/images/Business_Process_Analysis_Techniques.webp)
 
 ### Reflection
 
