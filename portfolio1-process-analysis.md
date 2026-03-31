@@ -20,7 +20,9 @@ I chose this artefact because it helped me understand process analysis in a simp
 This artefact is from lecture material that shows how process analysis fits within Phase 2 of Business Process Management. It explains that process analysis includes analysing the current process (as-is), evaluating performance, and designing improved processes (to-be). It also highlights identifying gaps and setting priorities for improvement. This aligns with BPM theory, where process analysis helps organisations understand processes and improve efficiency (Weske, 2019, p. 85).
 
 ![BPM Lifecycle Diagram](https://github.com/wendyauca/E-Portfolio/blob/cef6b6da01b56f195f1c80d85c5978a7c50c5ccb/images/Process%20analysis%20-%20BPM%20life%20cycle.PNG)
+### Reflection
 
+I chose this artefact because I found very inportant how process analysis fits into the BPM lifecycle. Before, I only saw it as analysing steps, but now I see it as part of continuous improvement. This changed my understanding because now I realise that process analysis supports redesign and decision making. This is critical in real organisations, where improving processes helps to achieve better performance and results.
 ## Artefact 3 – Process Analysis Techniques (Website)
 
 ### Description
@@ -31,9 +33,7 @@ This artefact explains different business process analysis techniques used to ev
 ### Reflection
 
 I chose this artefact because it helped me understand the different techniques used in process analysis. I learned that analysing a process is not only about describing it but also about identifying problems and improving it. This changed my understanding because I now see that different techniques can be used depending on the situation. This is important in real organisations, where choosing the right method can improve efficiency and support better decision making.
-### Reflection
 
-I chose this artefact because I found very inportant how process analysis fits into the BPM lifecycle. Before, I only saw it as analysing steps, but now I see it as part of continuous improvement. This changed my understanding because now I realise that process analysis supports redesign and decision making. This is critical in real organisations, where improving processes helps to achieve better performance and results.
 ## References
 
 Dumas, M, La Rosa, M, Mendling, J & Reijers, HA 2018, *Fundamentals of Business Process Management*, Springer.  
