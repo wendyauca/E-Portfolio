@@ -39,7 +39,7 @@ I chose this artefact because it helped me understand the different techniques u
 ### Description
 
 This artefact is a process diagram that I created to represent an online order process. It includes steps such as browsing products, adding items to the cart, making payment, confirming the order, and delivery. The diagram shows how each step follows a logical sequence. It also helps to identify possible issues, such as delays in payment processing or delivery. This reflects process analysis in practice, where processes are analysed to improve efficiency and performance (Weske, 2019, p. 85).
-!Online order Process Analysis(https://github.com/wendyauca/E-Portfolio/blob/a523c613d9d8d4b3f84581f059b9d3fc1c8cad14/images/Online%20order%20Process%20Analysis.png)
+![Online order Process Analysis](https://github.com/wendyauca/E-Portfolio/blob/a523c613d9d8d4b3f84581f059b9d3fc1c8cad14/images/Online%20order%20Process%20Analysis.png)
 ### Reflection
 
 I created this artefact to apply what I learned about process analysis in a real example. By breaking the process into steps, I realised how easy it is to identify inefficiencies such as delays or unnecessary steps. This helped me understand that process analysis is not only theoretical but also practical. This is important in real organisations, where analysing processes can improve efficiency and customer satisfaction.
