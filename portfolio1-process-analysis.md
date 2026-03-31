@@ -41,4 +41,4 @@ Dumas, M, La Rosa, M, Mendling, J & Reijers, HA 2018, *Fundamentals of Business 
 YouTube 2025, *Process Analysis Explained*, YouTube, viewed 2026, <https://www.youtube.com/watch?v=bdsDBAJBGHE>
 
 Weske, M 2019, *Business Process Management: Concepts, Languages, Architectures*, Springer.
-
+Kissflow 2026, Business process analysis, viewed 2026, <https://kissflow.com/workflow/bpm/business-process-analysis/>.
