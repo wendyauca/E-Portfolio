@@ -5,24 +5,24 @@
 **Process Analysis Concepts**    
 
 ### Description  
-This video explains process analysis as a technique used to describe how tasks are completed step by step. It shows how complex activities can be broken into smaller and clear steps that are easier to follow. The video highlights that each step must follow a logical order to ensure that a process can be repeated correctly. This aligns with Business Process Management theory, where process analysis is used to understand how processes work and identify improvements (Dumas et al., 2018, p. 213).
+This video explains how process analysis is a structured approach to examining how tasks are performed within a process. It demonstrates how activities can be broken down into sequential steps, highlighting the importance of logical flow and consistency. The artefact also shows how analysing each step helps identify inefficiencies and areas for improvement, which aligns with BPM principles of understanding and optimising processes (Dumas et al., 2018, p. 213).
 
 [![Watch Video](https://img.youtube.com/vi/bdsDBAJBGHE/0.jpg)](https://www.youtube.com/watch?v=bdsDBAJBGHE)
 
 Media: Youtube, Process Analysis Explained.
 
 ### Reflection  
-I chose this artefact because it helped me understand process analysis in a simple and practical way. Before watching the video, I thought processes were just general steps, but I learned that each step must be clearly structured and logically connected. This changed my understanding of BPM because I now see that process analysis improves communication and reduces errors. This is important in real organisations, as clear processes help employees perform tasks correctly and improve efficiency.
+I selected this artefact because it helped me move from a basic view of processes to a more structured understanding. I learned that process analysis is not only about describing steps but also about identifying inefficiencies such as bottlenecks and redundant tasks. This is important in organisations because poorly analysed processes can lead to delays, increased costs, and reduced service quality.
 
 ## Artefact 2 – Lecture PDF
 **Process Analysis Life Cycle**
 ### Description
-This artefact is from lecture material that shows how process analysis fits within Phase 2 of Business Process Management. It explains that process analysis includes analysing the current process (as-is), evaluating performance, and designing improved processes (to-be). It also highlights identifying gaps and setting priorities for improvement. This aligns with BPM theory, where process analysis helps organisations understand processes and improve efficiency (Weske, 2019, p. 85).
+This artefact is from lecture material, it explains how process analysis fits within the Business Process Management lifecycle, specifically in the analysis phase, demonstrating that organisations first examine the current process (as-is), evaluate its performance, and then design improvements (to-be). The diagram also highlights identifying gaps and prioritising changes, which supports continuous improvement and better decision-making in BPM (Weske, 2019, p. 85).
 
 ![BPM Lifecycle Diagram](https://github.com/wendyauca/E-Portfolio/blob/cef6b6da01b56f195f1c80d85c5978a7c50c5ccb/images/Process%20analysis%20-%20BPM%20life%20cycle.PNG)
 ### Reflection
 
-I chose this artefact because I found very inportant how process analysis fits into the BPM lifecycle. Before, I only saw it as analysing steps, but now I see it as part of continuous improvement. This changed my understanding because now I realise that process analysis supports redesign and decision making. This is critical in real organisations, where improving processes helps to achieve better performance and results.
+I chose this artefact because it helped me to understand that process analysis is not an isolated activity but part of a continuous cycle. Previously, I saw it only as analysing steps, but now I understand its role in supporting redesign and performance improvement. This is important in organisations because it enables informed decisions and helps reduce inefficiencies such as delays and resource waste.
 ## Artefact 3 – Website Article
 **Process Analysis Techniques**
 ### Description
@@ -32,13 +32,13 @@ This artefact explains different business process analysis techniques used to ev
 
 ### Reflection
 
-I chose this artefact because it helped me understand the different techniques used in process analysis. I learned that analysing a process is not only about describing it but also about identifying problems and improving it. This changed my understanding because I now see that different techniques can be used depending on the situation. This is important in real organisations, where choosing the right method can improve efficiency and support better decision making.
+I selected this artefact because it helped me to understand that process analysis involves different techniques depending on the situation. I learned that processes are more analytical than descriptive, requiring tools to identify inefficiencies and non-value activities. This is important in organisations because selecting the appropriate technique can improve decision-making and enhance process performance.
 
 ## Artefact 4 – Self-created 
 **Online order Process Analysis**
 ### Description
 
-This artefact is a process diagram that I created to represent an online order process. It includes steps such as browsing products, adding items to the cart, making payment, confirming the order, and delivery. The diagram shows how each step follows a logical sequence. It also helps to identify possible issues, such as delays in payment processing or delivery. This reflects process analysis in practice, where processes are analysed to improve efficiency and performance (Weske, 2019, p. 85).
+This artefact is a process diagram that I created to represent an online order process. It includes key steps such as browsing products, adding items to a cart, completing payment, confirming the order, and delivery. The diagram follows a logical sequence and shows how each activity is connected. It also helps to identify potential issues, such as delays in payment processing or delivery stages. This reflects process analysis in practice, where processes are examined to improve efficiency and performance (Weske, 2019, p. 85).
 ![Online order Process Analysis](https://github.com/wendyauca/E-Portfolio/blob/a523c613d9d8d4b3f84581f059b9d3fc1c8cad14/images/Online%20order%20Process%20Analysis.png)
 ### Reflection
 
