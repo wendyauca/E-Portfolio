@@ -5,7 +5,7 @@
 **Process Analysis Concepts**    
 
 ### Description  
-This video explains how process analysis is a structured approach to examining how tasks are performed within a process. It demonstrates how activities can be break down into sequential steps, highlighting the importance of logical flow and consistency. The artefact also shows how analysing each step helps identify inefficiencies and areas for improvement, which aligns with BPM principles of understanding and optimising processes (Dumas et al., 2018, p. 213).
+This video explains how process analysis is a structured approach to examining how tasks are performed within a process. It demonstrates how activities can be broken down into sequential steps, highlighting the importance of logical flow and consistency. The artefact also shows how analysing each step helps identify inefficiencies and areas for improvement, which aligns with BPM principles of understanding and optimising processes (Dumas et al., 2018, p. 213).
 
 [![Watch Video](https://img.youtube.com/vi/bdsDBAJBGHE/0.jpg)](https://www.youtube.com/watch?v=bdsDBAJBGHE)
 
@@ -31,7 +31,7 @@ This artefact explains different business process analysis techniques used to ev
 
 ### Reflection
 
-I selected this artefact because it helped me to understand that process analysis involves different techniques depending on the situation. I learned that processes are more analytical than descriptive, requiring tools to identify inefficiencies and non-value activities. This is important in organisations because selecting the appropriate technique can improve decision-making and enhance process performance.
+I selected this artefact because it helped me to understand that process analysis involves different techniques, such as value added and root cause analysis, which require critical evaluation of each activity. This changed my understanding by helping me recognise that not all activities create value within a process. This is important in organisations because identifying non value activities can improve efficiency and support better decision-making.
 
 ## Artefact 4 – Self-created 
 **Online order Process Analysis**
@@ -45,8 +45,7 @@ I created this artefact to apply what I learned about process analysis in a real
 ## References
 
 Dumas, M, La Rosa, M, Mendling, J & Reijers, HA 2018, *Fundamentals of Business Process Management*, Springer.  
-
-YouTube 2025, *Process Analysis Explained*, YouTube, viewed 2026, <https://www.youtube.com/watch?v=bdsDBAJBGHE>
-
+YouTube 2025, *Process Analysis Explained*, viewed 2026, <https://www.youtube.com/watch?v=bdsDBAJBGHE>
+CQUniversity 2026, Process Analysis – BPM life cycle, COIT20252 Business Process Management, CQUniversity.
 Weske, M 2019, *Business Process Management: Concepts, Languages, Architectures*, Springer.
-Kissflow 2026, Business process analysis, viewed 2026, <https://kissflow.com/workflow/bpm/business-process-analysis/>.
+Kissflow 2026, *Business process analysis*, viewed 2026, <https://kissflow.com/workflow/bpm/business-process-analysis/>.
