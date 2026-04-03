@@ -9,6 +9,8 @@ This video explains how process analysis is a structured approach to examining h
 
 [![Watch Video](https://img.youtube.com/vi/bdsDBAJBGHE/0.jpg)](https://www.youtube.com/watch?v=bdsDBAJBGHE)
 
+
+
 ### Reflection  
 Before watching this video, I assumed that processes were simply a sequence of general steps. However, I learned that each activity must be clearly structured and logically connected to ensure consistency and allow identification of inefficiencies such as bottlenecks and redundant tasks. This is important in organisations because poorly defined processes can lead to errors, delays, and inefficiencies. My understanding of processes has changed, as I now see it as a structured method instead of a basic description.
 ## Artefact 2 – Lecture PDF
