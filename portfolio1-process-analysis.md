@@ -18,7 +18,6 @@ This artefact is from lecture material, it explains how process analysis fits wi
 
 ![BPM Lifecycle Diagram](https://github.com/wendyauca/E-Portfolio/blob/cef6b6da01b56f195f1c80d85c5978a7c50c5ccb/images/Process%20analysis%20-%20BPM%20life%20cycle.PNG)
 ### Reflection
-
 I chose this artefact because it helped me to understand that process analysis is not an isolated activity but part of a continuous cycle. Previously, I saw it only as analysing steps, but now I understand its role in supporting redesign and performance improvement. This is important in organisations because it enables informed decisions and helps reduce inefficiencies such as delays and resource waste.
 ## Artefact 3 – Website Article
 **Process Analysis Techniques**
