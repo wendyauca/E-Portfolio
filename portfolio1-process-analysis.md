@@ -5,7 +5,7 @@
 **Process Analysis Concepts**    
 
 ### Description  
-This video explains how process analysis is a structured approach to examining how tasks are performed within a process. It demonstrates how activities can be broken down into sequential steps, highlighting the importance of logical flow and consistency. The artefact also shows how analysing each step helps identify inefficiencies and areas for improvement, which aligns with BPM principles of understanding and optimising processes (Dumas et al., 2018, p. 213).
+This video explains how process analysis is a structured approach to examining how tasks are performed within a process. It demonstrates how activities can be break down into sequential steps, highlighting the importance of logical flow and consistency. The artefact also shows how analysing each step helps identify inefficiencies and areas for improvement, which aligns with BPM principles of understanding and optimising processes (Dumas et al., 2018, p. 213).
 
 [![Watch Video](https://img.youtube.com/vi/bdsDBAJBGHE/0.jpg)](https://www.youtube.com/watch?v=bdsDBAJBGHE)
 
