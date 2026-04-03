@@ -12,8 +12,7 @@ This video explains how process analysis is a structured approach to examining h
 Media: Youtube, Process Analysis Explained.
 
 ### Reflection  
-I selected this artefact because it helped me move from a basic view of processes to a more structured understanding. I learned that process analysis is not only about describing steps but also about identifying inefficiencies such as bottlenecks and redundant tasks. This is important in organisations because poorly analysed processes can lead to delays, increased costs, and reduced service quality.
-
+Before watching this video, I assumed that processes were simply a sequence of general steps. However, I learned that each activity must be clearly structured and logically connected to ensure consistency and allow identification of inefficiencies such as bottlenecks and redundant tasks. This is important in organisations because poorly defined processes can lead to errors, delays, and inefficiencies. My understanding of processes has changed, as I now see it as a structured method instead of a basic description.
 ## Artefact 2 – Lecture PDF
 **Process Analysis Life Cycle**
 ### Description
