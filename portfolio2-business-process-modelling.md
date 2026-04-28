@@ -20,7 +20,11 @@ This article covers Business process modeling techniques, including BPMN, UML di
 Reading this article broadened my understanding of BPM by presenting various approaches that go beyond simple flow charts. Methods like BPMN and UML provide more structured and comprehensive ways to communicate complex processes, allowing for better collaboration across teams. I now see that each technique serves different purposes and can be applied based on the business context. By understanding these models, I am better equipped to select the right method for optimizing workflows, improving efficiency, and supporting better decision-making in organizations. 
 
 ## Artefact 3
-Content coming soon.
+Description
 
+This slide outlines key process components and data in process models, such as inputs and outputs, roles, probabilities, and branching rules. These elements are essential for accurately modeling workflows and optimizing processes. It highlights how factors like arrival patterns, costs, and work time affect process efficiency. Incorporating these components helps create robust process models that are not only visual but also data-driven, enabling better analysis and decision-making (Smith, 2021).
+
+Reflection
+This slide broadened my understanding of the technical aspects involved in process modelling.  this slide emphasizes the data elements that underpin process models. Elements like probabilities, branching rules, and entry/exit rules help refine the model by integrating real-world complexities. Understanding these capabilities will help me create more precise models that consider performance variables, ultimately improving decision-making and process optimization in business contexts.
 ## Artefact 4
 Content coming soon.
