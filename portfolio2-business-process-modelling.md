@@ -10,8 +10,11 @@ This video explains Business Process Modelling (BPM) as a structured approach to
 ## Reflection
 Before watching, I saw process modelling as just a tool for creating diagrams. After viewing the video, I now understand BPM as a strategic tool to visualize and analyze workflows for efficiency and standardization. The analogy to Google Maps resonated with me—without it, we’re lost, but with it, we can navigate, spot issues, and make better decisions. This highlighted the importance of a clear structure in navigating complex processes to improve decision-making.
 
-## Artefact 2
-Content coming soon.
+## Artefact 2 
+This article covers Business process modeling techniques, including BPMN, UML diagrams, flow charts, and data flow diagrams. It explains how each technique helps visualize, analyze, and optimize workflows. For instance, BPMN offers a standardized visual system, while UML is ideal for object-oriented systems. The article details the strengths and limitations of each method, helping organizations select the right tool based on their needs (Harmon, 2020).
+Reflection
+
+Reading this article broadened my understanding of BPM by presenting various approaches that go beyond simple flow charts. Methods like BPMN and UML provide more structured and comprehensive ways to communicate complex processes, allowing for better collaboration across teams. I now see that each technique serves different purposes and can be applied based on the business context. By understanding these models, I am better equipped to select the right method for optimizing workflows, improving efficiency, and supporting better decision-making in organizations. 
 
 ## Artefact 3
 Content coming soon.
