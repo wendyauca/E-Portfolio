@@ -2,7 +2,7 @@
 
 This e-portfolio will present my learning about business process modelling.
 
-## Artefact 1
+## Artefact 1 - Youtube Video
 Description
 This video explains Business Process Modelling (BPM) as a structured approach to visualizing and analyzing workflows to improve efficiency, standardize operations, and support decision-making. It covers process mapping and process modelling, focusing on identification, design, and analysis to develop effective process blueprints. The video emphasizes that while a well-designed process is crucial, its true value lies in active implementation and continuous improvement, not just being a theoretical document (Van Der Aalst, 2020).
 
