@@ -26,5 +26,10 @@ This slide outlines key process components and data in process models, such as i
 ![Process Modelling tool capabilities](https://github.com/wendyauca/E-Portfolio/blob/35c5ed4298a5515d1f5e6e8ae8a95374e63c35be/images/Process%20Modelling%20tool%20capabilities.png) 
 ## Reflection
 This slide broadened my understanding of the technical aspects involved in process modelling.  this slide emphasizes the data elements that underpin process models. Elements like probabilities, branching rules, and entry/exit rules help refine the model by integrating real-world complexities. Understanding these capabilities will help me create more precise models that consider performance variables, ultimately improving decision-making and process optimization in business contexts.
-## Artefact 4
-Content coming soon.
+## Artefact 4 - Self-Created 
+### BPMN Diagram: Food Ordering Process
+## Description
+This BPMN diagram represents the food ordering process, showing the roles of the Customer, Ordering System, Restaurant, and Delivery. It begins with the customer browsing menus and ends with the delivery of the order. The diagram includes key decision points like order validation and payment success. I used swimlanes to clearly separate the tasks of each role, and message flows to show how they communicate. This structure makes the process easy to follow and highlights the steps involved (McCormack, 2021).
+
+## Reflection
+Building this diagram gave me a hands-on way to apply the concepts of process modelling. It helped me realize how important it is to visualize tasks clearly and understand how each role connects to the process. The diagram showed me how clear communication and defined responsibilities can make processes smoother and more efficient.
