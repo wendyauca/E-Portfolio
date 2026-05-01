@@ -37,7 +37,7 @@ Creating this BPMN diagram allowed me to apply process modelling concepts in a p
 - Van der Aalst, W. (2016). *Business Process Management: A Comprehensive Guide*. Springer.
 - Harmon, P. (2019). *Business Process Change: A Guide to Business Process Management*. Morgan Kaufmann (Elsevier).
 - Weske, M. (2019). *Business Process Management: Concepts, Languages, Architectures*. Springer.
-### Artefacts:
+### Artefacts references
 - The Career Accelerators (2025). *Master Business Process Modelling in 15 Minutes | Simple Guide for Career Growth (+ Free Tools)*. [Video] Available at: https://www.youtube.com/watch?v=PNjZ9RYt2nQ [Accessed 19 april 2026].
 - GetSmarter (2025). *10 Types of Process Modelling Techniques Explained, with Examples*. Available at: https://www.getsmarter.com/blog/10-business-process-modelling-techniques/ [Accessed 20 april 2026].
 - CQUniversity (2025). *Lecture on Process Modelling Tools*. COIT20252 Business Process Management. Available at: https://my.cqu.edu.au/. [Accessed 20 april 2026].
