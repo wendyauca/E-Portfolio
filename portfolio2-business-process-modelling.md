@@ -33,7 +33,6 @@ This BPMN diagram represents the food ordering process, showing the roles of the
 Creating this BPMN diagram allowed me to apply process modelling concepts in a practical scenario. By breaking the process down into clear steps, I realized the importance of visualizing roles and task dependencies. The use of swimlanes helped me to clarify how each role contributes to the process and how communication flows between them. This experience reinforced how structured processes can reduce inefficiencies and improve coordination across teams. Overall, this exercise helped me to understand that when everyone knows their responsibilities and how they connect with others, the whole process becomes more streamlined and effective.
 ## References
 ### Reference List
-
 - Van der Aalst, W. (2016). *Business Process Management: A Comprehensive Guide*. Springer.
 - Harmon, P. (2019). *Business Process Change: A Guide to Business Process Management*. Morgan Kaufmann (Elsevier).
 - Weske, M. (2019). *Business Process Management: Concepts, Languages, Architectures*. Springer.
