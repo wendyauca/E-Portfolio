@@ -34,8 +34,6 @@ Building this diagram gave me a hands-on way to apply the concepts of process mo
 ## References
 ### Reference List
 
-### Reference List
-
 - Van der Aalst, W. (2016). *Business Process Management: A Comprehensive Guide*. Springer.
 - Harmon, P. (2019). *Business Process Change: A Guide to Business Process Management*. Morgan Kaufmann (Elsevier).
 - Weske, M. (2019). *Business Process Management: Concepts, Languages, Architectures*. Springer.
