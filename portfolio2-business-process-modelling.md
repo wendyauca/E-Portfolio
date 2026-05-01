@@ -33,3 +33,11 @@ This BPMN diagram represents the food ordering process, showing the roles of the
 ![Food Ordering Process BPMN Diagram](https://raw.githubusercontent.com/wendyauca/E-Portfolio/e42dfa6dbbf587a901c47784df0850a7f2f824c3/images/Food%20Ordering%20System%20BPMN%20Diagram.png)
 ## Reflection
 Building this diagram gave me a hands-on way to apply the concepts of process modelling. It helped me realize how important it is to visualize tasks clearly and understand how each role connects to the process. The diagram showed me how clear communication and defined responsibilities can make processes smoother and more efficient.
+## References
+### Reference List
+
+### Reference List
+
+- Van der Aalst, W. (2016). *Business Process Management: A Comprehensive Guide*. Springer.
+- Harmon, P. (2019). *Business Process Change: A Guide to Business Process Management*. Morgan Kaufmann (Elsevier).
+- Weske, M. (2019). *Business Process Management: Concepts, Languages, Architectures*. Springer.
