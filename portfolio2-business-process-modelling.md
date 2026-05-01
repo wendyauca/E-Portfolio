@@ -23,7 +23,7 @@ https://www.getsmarter.com/blog/10-business-process-modelling-techniques/
 
 ## Description
 This slide outlines key process components and data in process models, such as inputs and outputs, roles, probabilities, and branching rules. These elements are essential for accurately modeling workflows and optimizing processes. It highlights how factors like arrival patterns, costs, and work time affect process efficiency. Incorporating these components helps create robust process models that are not only visual but also data-driven, enabling better analysis and decision-making (Smith, 2021).
-![Food Ordering Process BPMN Diagram](https://raw.githubusercontent.com/yourusername/repositoryname/branchname/foldername/imagename.png)
+![](https://github.com/wendyauca/E-Portfolio/blob/aa0b9e3b48ace2fe13240c74cfd6e0a20eaddc79/images/Process%20Modelling%20tool%20capabilities.png)
 ## Reflection
 This slide broadened my understanding of the technical aspects involved in process modelling.  this slide emphasizes the data elements that underpin process models. Elements like probabilities, branching rules, and entry/exit rules help refine the model by integrating real-world complexities. Understanding these capabilities will help me create more precise models that consider performance variables, ultimately improving decision-making and process optimization in business contexts.
 ## Artefact 4 - Self-Created 
