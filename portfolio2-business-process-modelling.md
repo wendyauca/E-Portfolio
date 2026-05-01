@@ -13,7 +13,7 @@ Before watching, I saw process modelling as just a tool for creating diagrams. A
 ## Artefact 2 - Website Article
 ### Business Process Modelling techniques
 ## Description
-This article covers Business process modeling techniques, including BPMN, UML diagrams, flow charts, and data flow diagrams. It explains how each technique helps visualize, analyze, and optimize workflows. For instance, BPMN offers a standardized visual system, while UML is ideal for object-oriented systems. The article details the strengths and limitations of each method, helping organizations select the right tool based on their needs (Harmon, 2020).
+This article covers Business process modeling techniques, including BPMN, UML diagrams, flow charts, and data flow diagrams. It explains how each technique helps visualize, analyze, and optimize workflows. For instance, BPMN offers a standardized visual system, while UML is ideal for object-oriented systems. The article details the strengths and limitations of each method, helping organizations select the right tool based on their needs (Harmon, 2020, p. 47).
 
 ![Unified Modeling Language Diagrams](https://github.com/wendyauca/E-Portfolio/blob/f35418375e17dac6618bae629ddfcb1905e8e222/images/Unified%20modeling%20language%20diagrams.png)
 ## Reflection
