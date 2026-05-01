@@ -30,6 +30,6 @@ This slide broadened my understanding of the technical aspects involved in proce
 ### BPMN Diagram: Food Ordering Process
 ## Description
 This BPMN diagram represents the food ordering process, showing the roles of the Customer, Ordering System, Restaurant, and Delivery. It begins with the customer browsing menus and ends with the delivery of the order. The diagram includes key decision points like order validation and payment success. I used swimlanes to clearly separate the tasks of each role, and message flows to show how they communicate. This structure makes the process easy to follow and highlights the steps involved (McCormack, 2021).
-![https://github.com/wendyauca/E-Portfolio/blob/e42dfa6dbbf587a901c47784df0850a7f2f824c3/images/Food%20Ordering%20System%20BPMN%20Diagram.png]
+![BPMN Diagram(https://github.com/wendyauca/E-Portfolio/blob/e42dfa6dbbf587a901c47784df0850a7f2f824c3/images/Food%20Ordering%20System%20BPMN%20Diagram.png)
 ## Reflection
 Building this diagram gave me a hands-on way to apply the concepts of process modelling. It helped me realize how important it is to visualize tasks clearly and understand how each role connects to the process. The diagram showed me how clear communication and defined responsibilities can make processes smoother and more efficient.
