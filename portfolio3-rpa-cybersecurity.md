@@ -15,6 +15,10 @@ Content coming soon.
 
 ## Artefact 3 - pdf lecturer
 NIST Cybersecurity Framework pdf lecturer
+## Description
+This lecture slide explains the NIST Cybersecurity Framework, which is a widely used model for managing and improving cybersecurity in organizations. The framework is divided into five main functions: Identify, Protect, Detect, Respond, and Recover. Each function helps organizations manage cybersecurity risks and protect important business processes and information systems. The slide highlights key areas such as risk assessment, data security, monitoring, incident response, and recovery planning. These functions work together to strengthen security and support business continuity during cyber incidents. The framework is important because it provides organizations with a structured approach to reducing cybersecurity threats and improving operational resilience (Dell Technologies, 2019).
 ![NIST Cybersecurity Framework](https://raw.githubusercontent.com/wendyauca/E-Portfolio/c720fb45c37ce535c56f5645014f8694b7fd43d8/images/NIST%20Cybersecurity.png)
+## Reflection
+This artefact helped me understand that cybersecurity is not only about protecting computers and networks, but also about protecting business processes and organizational operations. Before reviewing this framework, I only associated cybersecurity with preventing attacks. However, I now understand that organizations must also prepare to detect incidents, respond effectively, and recover from disruptions. I found the five-step structure very useful because it clearly explains how organizations can manage cybersecurity risks in a systematic way. I selected this artefact because it connects strongly with Business Process Management and shows how secure processes are essential when organizations use automation technologies such as RPA. This framework demonstrates how cybersecurity supports process reliability, business continuity, and operational efficiency.
 ## Artefact 4
 Content coming soon.
