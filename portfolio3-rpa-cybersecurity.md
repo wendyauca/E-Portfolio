@@ -11,7 +11,7 @@ This video explains Robotic Process Automation (RPA) as a technology that uses s
 ## Reflection
 Before watching this video, I understood automation only as machines replacing manual work. However, this artefact helped me understand that RPA is more about improving business processes through software automation. I learned that RPA can handle repetitive tasks continuously with fewer errors and much faster than humans. What I found most interesting was how businesses can use RPA without changing their existing systems completely. This showed me how automation can support Business Process Management by improving efficiency, reducing operational costs, and helping employees focus on decision-making and problem-solving activities. I selected this artefact because it clearly explains the practical value of RPA in organizations and demonstrates how automation is transforming modern business processes across different industries.
 ## Artefact 2
-Content coming soon.
+![7 Key Benefits in organizations](https://github.com/wendyauca/E-Portfolio/blob/b059f7d0d9fdf0f15c10f903c33c669dd1936668/images/7%20Key%20benefits%20of%20RPA.png)
 
 ## Artefact 3 - pdf lecturer
 NIST Cybersecurity Framework pdf lecturer
