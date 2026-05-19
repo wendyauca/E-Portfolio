@@ -15,6 +15,7 @@ Content coming soon.
 
 ## Artefact 3 - pdf lecturer
 NIST Cybersecurity Framework pdf lecturer
+![]https://github.com/wendyauca/E-Portfolio/blob/c720fb45c37ce535c56f5645014f8694b7fd43d8/images/NIST%20Cybersecurity.png
 
 ## Artefact 4
 Content coming soon.
