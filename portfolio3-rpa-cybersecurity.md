@@ -32,3 +32,13 @@ This artefact presents a BPM process model and an RPA workflow developed in UiPa
 ## Reflection
 Creating these artefacts improved my understanding of how BPM, RPA, and cybersecurity work together in modern organisations. The workflow was inspired by my experience opening a bank account at Commonwealth Bank using a self-service machine where most of the process was automated with minimal staff intervention. Developing both the BPM model and the workflow helped me better understand automated decision-making, exception handling, and secure process design. I also learned that some high-risk situations still require human approval, which showed me the importance of balancing automation with human oversight in business processes.
 ![Bank account creation RPA Workflow](https://github.com/wendyauca/E-Portfolio/blob/62beb5574540d76eef85b35de197b21069872522/images/RPA%20Workflow.png)
+## References
+### Reference list
+
+- Alsmadi, I. and Zarour, M. (2022) ‘Cybersecurity challenges in business process management systems: A review’, *Journal of Information Security and Applications*, vol. 64.
+
+- Leshob, A., Bédard, M. and Mili, H. (2020) ‘Robotic Process Automation and Business Rules: A Perfect Match’, in *Proceedings of the 17th International Joint Conference on e-Business and Telecommunications*. 
+
+- National Institute of Standards and Technology (NIST) (2024) *The NIST Cybersecurity Framework (CSF) 2.0*. Gaithersburg: National Institute of Standards and Technology.
+
+- Wellmann, C., Stierle, M., Dunzer, S. and Matzner, M. (2020) ‘A framework to evaluate the viability of robotic process automation for business process activities’, *arXiv preprint*, arXiv:2007.10900.
