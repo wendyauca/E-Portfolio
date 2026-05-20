@@ -33,6 +33,7 @@ This artefact presents a BPM process model and an RPA workflow developed in UiPa
 Creating these artefacts improved my understanding of how BPM, RPA, and cybersecurity work together in modern organisations. The workflow was inspired by my experience opening a bank account at Commonwealth Bank using a self-service machine where most of the process was automated with minimal staff intervention. Developing both the BPM model and the workflow helped me better understand automated decision-making, exception handling, and secure process design. I also learned that some high-risk situations still require human approval, which showed me the importance of balancing automation with human oversight in business processes.
 ![Bank account creation RPA Workflow](https://github.com/wendyauca/E-Portfolio/blob/62beb5574540d76eef85b35de197b21069872522/images/RPA%20Workflow.png)
 ## References
+### Artefact list
 ### Reference list
 
 - Alsmadi, I. and Zarour, M. (2022) ‘Cybersecurity challenges in business process management systems: A review’, *Journal of Information Security and Applications*, vol. 64.
