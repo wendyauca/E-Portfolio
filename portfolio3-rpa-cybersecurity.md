@@ -43,6 +43,7 @@ Creating these artefacts improved my understanding of how BPM, RPA, and cybersec
 
 - Wellmann, C., Stierle, M., Dunzer, S. and Matzner, M. (2020) ‘A framework to evaluate the viability of robotic process automation for business process activities’, *arXiv preprint*, arXiv:2007.10900.
 ### Artefact references
-- ComPDF (2024) *What is RPA (Robotic Process Automation)? | Explained in 3 Minutes*. [Video] Available at: https://www.youtube.com/watch?v=APyFKz7pntQ [Accessed 20 May 2026].
-- ### Artefact 2 – RPA Website Article
-Experteq (2026) *The 7 key benefits of Robotic Process Automation (RPA): how automation transforms all aspects of your organisation (2026 update)*. Available at: https://experteq.com/7-rpa-benefits-that-boost-efficiency-and-automation/ [Accessed 20 May 2026].
+- ComPDF (2024) *What is RPA (Robotic Process Automation)? | Explained in 3 Minutes*. [Video] Available at: https://www.youtube.com/watch?v=APyFKz7pntQ [Accessed 10 May 2026].
+- Experteq (2026) *The 7 key benefits of Robotic Process Automation (RPA): how automation transforms all aspects of your organisation (2026 update)*. Available at: https://experteq.com/7-rpa-benefits-that-boost-efficiency-and-automation/ [Accessed 14 May 2026].
+- CQUniversity (2026) *NIST Cybersecurity Framework*. COIT20252 Business Process Management lecture slide, p. 29. Available at: https://my.cqu.edu.au/ [Accessed 16 May 2026].
+- Auca Chungara, W. (2026) *Automated Bank Account Opening BPM Process and UiPath RPA Workflow*. Self-created artefact developed using UiPath Studio and BPM process modelling techniques.
