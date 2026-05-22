@@ -25,7 +25,7 @@ This lecture slide explains the NIST Cybersecurity Framework as a structured mod
 ## Reflection
 I chose this artefact because it helped me to understand cybersecurity as part of process management, not just an IT issue. This slide shows how organisations can protect automated and digital processes through clear security functions. It also helped me connect cybersecurity with RPA, because automated workflows often handle sensitive data and need controls such as monitoring, response planning, and recovery. This improved my knowledge of why secure process design is important in BPM.
 ## Artefact 4
-### Secure Automated Invoice Processing Workflow
+### Secure Automated Bank account opening process
 ## Description
 This artefact presents a BPM process model and an RPA workflow developed in UiPath for an automated bank account opening process. The workflow included customer registration, identity verification, fraud and cybersecurity checks, compliance validation, and account approval or rejection. The UiPath workflow simulated how software robots can automate repetitive tasks such as validating customer information, generating customer numbers, creating audit logs, and sending confirmation emails. The artefact also incorporated cybersecurity concepts such as secure data storage and compliance monitoring. According to Alsmadi and Zarour (2022, p. 103-112), cybersecurity is essential in business process management systems to protect sensitive organisational and customer information from security threats.
 ![Bank account creation BPM](https://github.com/wendyauca/E-Portfolio/blob/2ed5679ce8798a4b6c660203deb732957e534c44/images/Bank%20account%20reation%20Process%20BPM.png)
