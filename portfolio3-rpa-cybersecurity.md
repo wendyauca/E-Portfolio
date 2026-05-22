@@ -1,8 +1,6 @@
 # Portfolio 3 – Robotic Process Automation and Process Cybersecurity
-
-This e-portfolio will present my learning about RPA and cybersecurity in business processes.
-
-## Artefact 1– YouTube Video
+This e-portfolio present my learning about RPA and cybersecurity in business processes.
+## Artefact 1 – YouTube Video
 ### Introduction to Robotic Process Automation (RPA)
 ## Description
 This video explains RPA as a technology that uses software robots to automate repetitive business tasks such as data entry, invoice processing, email scheduling, and customer service activities. It helped me to comprehend that RPA works by copying human actions, such as clicking, typing, and moving data between systems, without requiring a full change of existing technology. Leshob, Bédard and Mili (2020, p. 119) explain that RPA uses software robots to perform repetitive tasks in business processes, reducing errors and improving efficiency.
